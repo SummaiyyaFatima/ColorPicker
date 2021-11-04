@@ -1,2 +1,2 @@
-# ColorPicker
-Color Picker using JavaScript
+# ColorPickerGame
+Color Picker Game using JavaScript
